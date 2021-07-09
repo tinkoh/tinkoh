@@ -1,1 +1,1 @@
-<img src='./dog.png' />
+<img src='./dog.gif' />
