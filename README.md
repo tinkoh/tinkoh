@@ -1,1 +1,6 @@
-![tinkoh's Github stats](https://github-readme-stats.vercel.app/api?username=tinkoh&show_icons=true&theme=cobalt)
+<img align="right" height="270px" alt="GIF" src="./dog.gif" />
+
+# Hello! I'm Given ✌️
+
+I'm a web developer, designer, and dog enthusiast.
+I work with React 
