@@ -1,3 +1,5 @@
+<img src="./images/wave_bottom.svg" />
+
 <img align="right" height="300px" alt="dog hitting his computer" src="./images/dog.gif" />
 
 ## Hello! I'm Given ✌️
@@ -14,3 +16,5 @@ When I'm not coding I'm playing jazz piano, re-reading Carl Sagan, or enthusing 
  <img alt="love open source" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />  
  <!--  <img alt="ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /> -->
 </div>
+
+<img src="./images/wave_top.svg" />
