@@ -1,4 +1,4 @@
-<img align="right" height="270px" alt="dog hitting his computer" src="./images/dog.gif" />
+<img align="right" height="200%" alt="dog hitting his computer" src="./images/dog.gif" />
 
 ## Hello! I'm Given ✌️
 
