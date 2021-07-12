@@ -12,8 +12,9 @@ When I'm not coding I'm playing jazz piano, re-reading Carl Sagan, or enthusing 
 
 
 <div>
- <img align="left" alt="page view count" src="https://gpvc.arturio.dev/tinkoh" />  
- <img align="right" alt="love open source" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />  
+ <img align="left" alt="page view count" src="https://gpvc.arturio.dev/tinkoh" />
+ <span align="center">&nbsp;🚀&nbsp;&nbsp;</span>
+ <img alt="love open source" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />  
  <!--  <img alt="ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /> -->
 </div>
 
