@@ -8,7 +8,7 @@ I'm a web developer, designer, and dog enthusiast.
 
 I work with React, Svelte , Node, and Python, as well as whatever I'm learning at the moment.
 
-When I'm not coding I'm playing jazz piano, re-reading Carl Sagan, or enthusing over the aforementioned dogs.
+When I'm not building stuff for the web, I'm playing jazz piano, re-reading Carl Sagan, or enthusing over the aforementioned dogs.
 
  <!--  <img align="left" alt="page view count" src="https://gpvc.arturio.dev/tinkoh" /> -->
  <!--  <span align="center">&nbsp;🚀&nbsp;&nbsp;</span> -->
