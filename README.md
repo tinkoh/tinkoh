@@ -1,5 +1,5 @@
-<img align="bottom" alt="wave design" src="./images/wave_top.svg" />
 
+<img align="top" alt="wave design" src="./images/wave_bottom.svg" />
 <img align="right" height="270px" alt="dog hitting his computer" src="./images/dog.gif" />
 
 ## Hello! I'm Given ✌️
@@ -14,6 +14,5 @@ When I'm not building stuff for the web, I'm playing jazz piano, re-reading Carl
  <!--  <span align="center">&nbsp;🚀&nbsp;&nbsp;</span> -->
  <!--  <img alt="love open source" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />   -->
  <!--  <img alt="ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /> -->
-<br/>
-<br/>
-<img align="top" alt="wave design" src="./images/wave_bottom.svg" />
+<img align="bottom" alt="wave design" src="./images/wave_top.svg" />
+
