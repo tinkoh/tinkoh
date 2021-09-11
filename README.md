@@ -10,6 +10,8 @@ I work with React, Vue, and Python, as well as whatever I'm learning at the mome
 
 When I'm not building stuff for the web, I'm playing jazz piano, re-reading Carl Sagan, or enthusing over the aforementioned dogs.
 
+Check out my [personal site](https://given.codes) while you're here!
+
  <!--  <img align="left" alt="page view count" src="https://gpvc.arturio.dev/tinkoh" /> -->
  <!--  <span align="center">&nbsp;🚀&nbsp;&nbsp;</span> -->
  <!--  <img alt="love open source" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />   -->
