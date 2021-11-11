@@ -4,7 +4,7 @@
 
 ## Hello! I'm Given ✌️
 
-I'm a web developer, designer, and dog enthusiast.
+I'm a software developer and dog enthusiast.
 
 I work with React, Vue, and Python, as well as whatever I'm learning at the moment.
 
