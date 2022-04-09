@@ -1,22 +1,13 @@
 
-<!-- <img align="top" alt="wave design" src="./images/wave_bottom.svg" /> -->
-<!-- <img align="right" height="270px" alt="dog hitting his computer" src="./images/dog.gif" /> -->
+<img align="top" alt="wave design" src="./images/wave_bottom.svg" />
 
-<!-- ## Hello! I'm Given ✌️
+# Hello! I'm Given ✌️
 
 I'm a software developer and dog enthusiast.
 
-I work with React, Vue, and Python, as well as whatever I'm learning at the moment.
+When I'm not building stuff for the web, I'm playing jazz piano, re-reading Carl Sagan, or taking my dog Appa on hikes.
 
-When I'm not building stuff for the web, I'm playing jazz piano, re-reading Carl Sagan, or enthusing over the aforementioned dogs.
-
-Check out my [personal site](https://given.codes) while you're here! -->
-
- <!--  <img align="left" alt="page view count" src="https://gpvc.arturio.dev/tinkoh" /> -->
- <!--  <span align="center">&nbsp;🚀&nbsp;&nbsp;</span> -->
- <!--  <img alt="love open source" src="https://badges.frapsoft.com/os/v3/open-source.png?v=103" />   -->
- <!--  <img alt="ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /> -->
-<!-- <img align="bottom" alt="wave design" src="./images/wave_top.svg" /> -->
+Check out my [personal site](https://given.codes) while you're here!
 
 <img align="center" alt="dog hitting his computer" src="./images/dog.gif" />
 
@@ -24,7 +15,7 @@ Check out my [personal site](https://given.codes) while you're here! -->
 
 ### 📦 Packages
 
-[react-spinner-components](https://github.com/givensuman/react-spinner-components)
+[react-spinner-components](https://github.com/givensuman/react-spinner-components) - Production-ready vector graphic spinners built for React
 
 [react-awesome-giphy](https://github.com/givensuman/react-awesome-giphy) - React wrapper for the Giphy API
 
@@ -59,3 +50,5 @@ Check out my [personal site](https://given.codes) while you're here! -->
 ##
 
 ### [🦖 See more...](https://github.com/givensuman?tab=repositories)
+
+<img align="bottom" alt="wave design" src="./images/wave_top.svg" />
