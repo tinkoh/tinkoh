@@ -15,8 +15,6 @@ Check out my [personal site](https://given.codes) while you're here!
 
 ### 📦 Packages
 
-[react-spinner-components](https://github.com/givensuman/react-spinner-components) - Production-ready vector graphic spinners built for React
-
 [react-awesome-giphy](https://github.com/givensuman/react-awesome-giphy) - React wrapper for the Giphy API
 
 [hookmart](https://github.com/givensuman/hookmart) - Stupid simple collection of common use-case React hooks
