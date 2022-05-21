@@ -39,7 +39,7 @@ Check out my [personal site](https://given.codes) while you're here!
 
 ### 🌭 Misc
 
-[moot](https://github.com/givensuman/moot) - Color-blind friendly syntax highlighting for VSCode
+[colorblind-theme](https://github.com/givensuman/colorblind-theme) - Color-blind friendly syntax highlighting for VSCode
 
 [johnmulapi](https://github.com/givensuman/johnmulapi) - An API for John Mulaney quotes
 
