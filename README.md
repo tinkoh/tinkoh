@@ -1,2 +1,2 @@
-# 👉🏼 [given.rocks](https://given.rocks)
+# 👉🏼 [givensuman.com](https://givensuman.com)
 
