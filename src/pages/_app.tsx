@@ -1,19 +1,19 @@
 import { GeistSans } from "geist/font/sans";
 import { type AppType } from "next/app";
 
+import localFont from "next/font/local"
+
 import "@/styles/globals.css";
 import Noise from "@/components/Noise";
 
+const discoEveryday = localFont({
+  src: "../assets/fonts/disco-everyday.ttf",
+  variable: "--font-disco-everyday"
+})
+
 const MyApp: AppType = ({ Component, pageProps }) => {
   return (
-    <main className={GeistSans.className}>
-      <link
-        rel="preload"
-        href="/disco-everyday.ttf"
-        as="font"
-        type="font/ttf"
-        crossOrigin="anonymous"
-      />
+    <main className={`${GeistSans.className} ${discoEveryday.className}`}>
       <Noise />
       <Component {...pageProps} />
     </main>

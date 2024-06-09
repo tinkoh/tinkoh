@@ -1,7 +1,5 @@
 import Head from "next/head";
 
-const RADIUS = 100;
-
 export default function Home() {
   return (
     <>
@@ -11,7 +9,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="flex min-h-screen w-screen flex-col items-center justify-center">
-        <h1 className="neon bg-clip-text bg-repeat text-6xl font-bold text-transparent">
+        <h1 className="neon bg-clip-text bg-repeat text-[10.5em] font-bold text-transparent font-disco-everyday">
           givensuman
         </h1>
       </main>
